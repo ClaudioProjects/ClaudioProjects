@@ -31,7 +31,7 @@ Tenho 19 anos, sou estudante de desenvolvimento web, curso analise e desenvolvim
     <a href="https://t.me/ClaudioOlimpio">
       <img align="center" alt="Claudio-Telegram" height="30" width="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-    <a href="claudiodevcontact@gmail.com">
+    <a href="mailto:claudiodevcontact@gmail.com">
       <img align="center" alt="Claudio-Gmail" height="30" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     
