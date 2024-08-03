@@ -1,8 +1,5 @@
-## Olá, eu sou o Claudio! 👋
 
-Tenho 19 anos, sou estudante de desenvolvimento web, curso analise e desenvolvimento de sistemas pela Unopar e nas horas vagas sou um amante de jogos 🎮
- 
-<div align="center">
+ <div align="center">
   <a href="https://github.com/ClaudioProjects">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioProjects&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioProjects&layout=compact&langs_count=7&theme=dracula"/>
